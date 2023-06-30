@@ -2,9 +2,13 @@
 
 ## What is TCP?
 TCP is a connection-oriented protocol that provides reliable, ordered, and error-checked delivery of data packets over an IP network. It guarantees that data sent from one device is received correctly by the destination device. TCP achieves this reliability through mechanisms like acknowledgement, retransmission, and flow control. It breaks data into smaller packets, assigns sequence numbers to them, and ensures they are reassembled correctly at the receiving end. TCP is widely used for applications that require guaranteed delivery, such as web browsing, email, file transfer, and remote login.
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/319846c1-918b-4404-b140-e23ce008ccd3)
+
 
 ## What is UDP?
 UDP, on the other hand, is a connectionless protocol that does not provide the same level of reliability as TCP. It is simpler and more lightweight, making it suitable for applications that can tolerate some data loss or delay. UDP does not establish a connection or guarantee delivery of packets. It simply sends data packets from one device to another without waiting for acknowledgements or retransmissions. UDP is commonly used for real-time applications like streaming media, online gaming, DNS (Domain Name System), and VoIP (Voice over IP).
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/da6923f3-2bc1-4f0a-8011-2caf4435e492)
+
 
 ## How Does it Work </3
 The three-way handshake is a process used by TCP to establish a connection between two devices. It is a sequence of three steps that takes place before data transmission can begin. Here's how the three-way handshake works:
