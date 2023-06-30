@@ -14,3 +14,7 @@ In summary, IPv4 and IPv6 are versions of the Internet Protocol that provide uni
 
 Here is a picture to show us where our IP addresses stand out:
 ![[Pasted image 20230630152422.png]]
+
+# Resources
+
+https://www.howtogeek.com/341307/how-do-ip-addresses-work/
