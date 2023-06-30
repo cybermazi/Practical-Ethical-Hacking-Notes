@@ -1,4 +1,4 @@
-## What is
+## What is Subnetting?
 Subnetting is the process of dividing a network into smaller subnetworks called subnets. It allows for more efficient use of IP addresses and facilitates network management and routing. Subnetting is commonly used in IPv4 networks.
 
 Subnetting involves borrowing bits from the host portion of an IP address to create a subnet identifier. By doing this, a network can be divided into multiple subnets, each with its own range of IP addresses.
@@ -25,3 +25,6 @@ The four resulting subnets would be:
 Each subnet can then be assigned to a different segment or used for different purposes within the network.
 
 CIDR notation provides a concise way to represent networks and subnets by specifying the prefix length. It allows for flexibility in defining network boundaries and enables efficient address allocation in IP networking.
+
+# RESOURCES
+- 
