@@ -29,4 +29,4 @@ CIDR notation provides a concise way to represent networks and subnets by specif
 # RESOURCES
 - [Seven Seconds Subnetting](https://www.youtube.com/watch?v=ZxAwQB8TZsM)
 - [Subnet Guide](https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view)
-- 
+- [Subnetting]
