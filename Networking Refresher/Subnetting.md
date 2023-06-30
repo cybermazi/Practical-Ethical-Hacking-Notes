@@ -27,4 +27,5 @@ Each subnet can then be assigned to a different segment or used for different pu
 CIDR notation provides a concise way to represent networks and subnets by specifying the prefix length. It allows for flexibility in defining network boundaries and enables efficient address allocation in IP networking.
 
 # RESOURCES
+- [Seven Seconds Subnetting](https://www.youtube.com/watch?v=ZxAwQB8TZsM)
 - 
