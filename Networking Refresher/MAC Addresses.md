@@ -1,5 +1,7 @@
 ## What is a  MAC Address
 A MAC (Media Access Control) address is a unique identifier assigned to network interface controllers (NICs) of network devices. It is a hardware address that is permanently assigned by the manufacturer and is stored in the device's firmware or read-only memory (ROM). MAC addresses are used at the data link layer of the OSI model to ensure that data is delivered to the correct device within a local network.
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/80b3a9d9-5516-4992-81aa-54fbbcc90254)
+
 
 ## How Does it work??
 MAC addresses are typically 48 bits in length and are expressed as a sequence of six pairs of hexadecimal digits separated by colons or hyphens. For example, a MAC address may look like "00:1A:2B:3C:4D:5E". The first three pairs of digits identify the manufacturer of the network interface card, while the last three pairs provide a unique identifier for the specific device.
