@@ -32,4 +32,4 @@ CIDR notation provides a concise way to represent networks and subnets by specif
 
 # TOOLS
 - [Subnetting Calculator](https://www.subnet-calculator.com)
-- 
+- [Subnet Resolver](https://ipaddressguide.com/cidr)
