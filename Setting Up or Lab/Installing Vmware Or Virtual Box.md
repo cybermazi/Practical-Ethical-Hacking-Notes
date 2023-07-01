@@ -3,5 +3,5 @@ The obvious reason for setting up a home pentesting lab is to provide a convenie
 A home pentesting lab is a good way to hone skills while staying out of legal trouble. Hacking into other people’s computers and networks is illegal without prior consent, but it’s perfectly legal to set up your own lab that mimics someone else’s environment and then pentest your copy.
 
 # RESOURCES
-- Vmware Download(https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
-- [Virtual Box Download](https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+- [Vmware Download](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+- [Virtual Box Download](https://www.virtualbox.org/wiki/Downloads)
