@@ -1,14 +1,16 @@
 In the `ls -la` output, the "rwx" refers to the permissions associated with a file or directory. The permissions are displayed for three different entities: the owner, the group, and other users. Each entity has three permission categories: read (r), write (w), and execute (x). Here's a breakdown of what each permission category represents:
 
-- Read (r): Allows the entity to read or view the contents of a file or the names of files within a directory.
-- Write (w): Enables the entity to modify or write to a file or add, delete, or rename files within a directory.
-- Execute (x): Grants the entity the permission to execute a file or enter a directory. For directories, execute permission is required to access its contents.
+- **Read (r):** Allows the entity to read or view the contents of a file or the names of files within a directory.
+- **Write (w):** Enables the entity to modify or write to a file or add, delete, or rename files within a directory.
+- **Execute (x):** Grants the entity the permission to execute a file or enter a directory. For directories, execute permission is required to access its contents.
 
 In the `ls -la` output, the permissions are displayed as a series of nine characters. The first character represents the file type (e.g., `-` for a regular file, `d` for a directory). The next three characters represent the owner's permissions, followed by the group's permissions, and then the permissions for other users.
 
 For example, let's consider an `ls -la` output line:
 
+```shell
 -rwxr-x--- 1 user group 4096 May 10 12:34 myfile.txt 
+```
 
 In this example, the permissions are broken down as follows:
 
