@@ -11,4 +11,4 @@ While Kali Linux is a powerful tool for security professionals, it is important 
 # RESOURCES
 _You can use this few resources to boost your skills on the command line:_
 - [OverTheWire](https://overthewire.org/wargames/bandit/) --> The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames
-- 
+- [CmdChallenge](https://cmdchallenge.com) --> Test your shell knowledge by taking the CMD Challenge
