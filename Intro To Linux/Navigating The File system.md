@@ -85,4 +85,5 @@ _Here are Top Commad used iin Navigating the linux file system:_
 - - Explanation: Allows a user to change their password.
     - Example: Running `passwd` would prompt the user to enter their current password and then set a new password.
 
+### NOTE </3
 Remember to exercise caution when using commands like `rm` as they can permanently delete files. It's always a good practice to double-check before executing such commands.
