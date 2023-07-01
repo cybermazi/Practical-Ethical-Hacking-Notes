@@ -1,4 +1,4 @@
-_Here are Top Commad used iin Navigating the linux file system:_
+_Here are Top Commad used in Navigating the linux file system:_
 
 `pwd` (Print Working Directory):
 

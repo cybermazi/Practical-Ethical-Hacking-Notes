@@ -1,5 +1,5 @@
 
-_Here are explanations and examples of the commands:_**
+**_Here are explanations and examples of the commands:_**
 
 `ip a`:
 
