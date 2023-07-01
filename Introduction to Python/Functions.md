@@ -14,3 +14,4 @@ To execute a function, you need to call it by its name, followed by parentheses.
 ```python
 greet()
 ```
+
