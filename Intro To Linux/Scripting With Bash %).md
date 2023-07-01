@@ -19,4 +19,4 @@ fi
 
 **Question**: My bash script is producing an error with “seq”. How do I resolve?
 
-**Resolution**: `Ensure use of backtick (`) instead of using single quote ('). Alternatively, use $(seq 1 254) instead of seq
+**Resolution**: ```Ensure use of backtick (`) instead of using single quote ('). Alternatively, use $(seq 1 254) instead of seq```
