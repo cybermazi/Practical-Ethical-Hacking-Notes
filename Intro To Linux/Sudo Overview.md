@@ -11,7 +11,9 @@ sudo apt install <package_name>
 
 For instance, if you want to install the package named "nginx" on an Ubuntu system, you can use the following command:
 
+```zsh
 sudo apt install nginx 
+```
 
 After running this command, you will be prompted to enter your password. Once you provide the correct password, the command will be executed with superuser privileges, allowing you to install the "nginx" package on the system.
 
