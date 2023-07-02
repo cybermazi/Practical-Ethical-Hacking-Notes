@@ -61,3 +61,5 @@ else:
 In this example, if `x` is greater than 0, the first block will be executed. If it is less than 0, the second block will be executed. Otherwise, if none of the conditions are true, the third block will be executed.
 
 Conditional statements allow you to make decisions and control the execution flow of your program based on certain conditions. They are essential for implementing logic and branching in your code.
+
+Here is how it was used in the tutorial:
