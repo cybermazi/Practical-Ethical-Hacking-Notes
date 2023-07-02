@@ -74,4 +74,6 @@ test_or2 = True or False #True
 
 test_not = not True #False
 ```
+Here is also a Python thruth table to understand better:
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/83a6f0f5-ecef-4c85-a28e-6b12567dfc07)
 
