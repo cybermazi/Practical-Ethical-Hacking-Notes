@@ -50,6 +50,7 @@ Within loops, you can use the `break` statement to exit the loop prematurely a
 
 Looping provides a powerful mechanism for iterating over data, performing calculations, and controlling program flow. By using loops effectively, you can automate repetitive tasks and process large amounts of data efficiently.
 
+How it was used in the tutorial
 ```python
 #For loops - start to finish of an iterate
 vegetables = ["cucumber", "spinach", "cabbage"]
