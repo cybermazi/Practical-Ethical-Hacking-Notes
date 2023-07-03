@@ -12,18 +12,21 @@ Example:
 fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
     print(fruit)
+```
 
 In this example, the `for` loop iterates over each item in the `fruits` list, and the block of code inside the loop (`print(fruit)`) is executed for each item. It will output:
-
+```
 apple
 banana
 orange
+```
 
 1. while Loop:
 2. The `while` loop is used to repeatedly execute a block of code as long as a given condition is true. It continues looping until the condition becomes false. Here's the general syntax:
-
+```
 while condition:
     # code to be executed while the condition is true
+```
 
 Example:
 
@@ -33,15 +36,30 @@ while count < 5:
     count += 1
 
 In this example, the `while` loop will continue executing the code inside the loop (`print(count)`) as long as the condition `count < 5` is true. It will output:
-
+```
 0
 1
 2
 3
 4
+```
 
 The `break` and `continue` Statements:
 
 Within loops, you can use the `break` statement to exit the loop prematurely and the `continue` statement to skip the current iteration and move to the next one.
 
 Looping provides a powerful mechanism for iterating over data, performing calculations, and controlling program flow. By using loops effectively, you can automate repetitive tasks and process large amounts of data efficiently.
+
+```python
+#For loops - start to finish of an iterate
+vegetables = ["cucumber", "spinach", "cabbage"]
+for x in vegetables:
+	print(x)
+	
+#While loops - execute as long as true
+i = 1
+
+while i < 10:
+	print(i)
+	i += 1
+```
