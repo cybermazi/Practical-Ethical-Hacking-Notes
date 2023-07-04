@@ -37,12 +37,25 @@ In this example, the math module is imported and assigned the alias m, so you ca
 
 Importing All Functions and Variables:
 If you want to import all functions and variables from a module, you can use the * wildcard character. However, it is generally recommended to import only what you need to avoid namespace pollution. Here's an example:
+```python
 from math import *
 
 
 result = sqrt(25)
 print(result)   # Output: 5.0
+```
+
 In this case, all functions and variables from the math module are imported directly, allowing you to use them without prefixing with the module name.
 
 Importing modules enables you to access and utilize a wide range of functionality provided by the Python standard library or third-party libraries. It promotes code reusability, modularity, and maintainability in your Python programs.
+
+How it was used:
+```python
+#IMPORTING - Importing is important.
+import sys #system functions and parameters
+from datetime import datetime as dt #import with alias 
+
+print(sys.version)
+print(dt.now())
+```
 
