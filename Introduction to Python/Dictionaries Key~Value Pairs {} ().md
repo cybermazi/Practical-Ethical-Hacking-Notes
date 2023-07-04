@@ -56,5 +56,22 @@ del student["age"]           # Deleting a key-value pair
 
 Dictionaries are powerful data structures that provide a flexible way to store and retrieve data based on keys. They are commonly used for organizing and manipulating data that requires quick and efficient access.
 
-```
+Used:
+```python
+#DICTIONARIES - key/value pairs {}
+
+drinks = {"White Russian": 7, "Old Fashion": 10, "Lemon Drop": 8} #drink is key, price is value
+print(drinks)
+
+employees = {"Finance": ["Bob", "Linda", "Tina"], "IT": ["Gene", "Louise", "Teddy"], "HR": ["Jimmy Jr.", "Mort"]}
+employees['Legal'] = ["Mr. Frond"] #adds new key:value pair
+print(employees)
+
+employees.update({"Sales": ["Andie", "Ollie"]}) #adds new key:value pair
+print(employees)
+
+drinks['White Russian'] = 8
+print(drinks)
+
+print(drinks.get("White Russian"))
 ```
