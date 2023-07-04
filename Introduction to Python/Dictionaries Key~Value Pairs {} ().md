@@ -52,5 +52,9 @@ for key in student:
 
 
 del student["age"]           # Deleting a key-value pair
+```
 
 Dictionaries are powerful data structures that provide a flexible way to store and retrieve data based on keys. They are commonly used for organizing and manipulating data that requires quick and efficient access.
+
+```
+```
