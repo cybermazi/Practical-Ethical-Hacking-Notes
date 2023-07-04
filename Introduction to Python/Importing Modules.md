@@ -2,29 +2,37 @@ In Python, importing modules allows you to access and use code that resides in e
 
 Importing Entire Modules:
 To import an entire module, you use the import keyword followed by the module name. Here's an example:
+```python
 import math
 
 
 result = math.sqrt(25)
 print(result)   # Output: 5.0
 In this example, the math module is imported, and the sqrt() function from the module is used to calculate the square root of 25.
+```
 
 Importing Specific Functions or Variables:
 If you only need to use specific functions or variables from a module, you can import them directly. Here's an example:
+```python
 from math import sqrt
 
 
 result = sqrt(25)
 print(result)   # Output: 5.0
 In this case, only the sqrt() function is imported from the math module, so you can use it directly without prefixing it with the module name.
+```
+
 
 Importing Modules with an Alias:
 You can also import a module and give it an alias using the as keyword. This can be helpful when dealing with modules with long names or to avoid naming conflicts. Here's an example:
+```python
 import math as m
 
 
 result = m.sqrt(25)
 print(result)   # Output: 5.0
+```
+
 In this example, the math module is imported and assigned the alias m, so you can use m.sqrt() instead of math.sqrt().
 
 Importing All Functions and Variables:
