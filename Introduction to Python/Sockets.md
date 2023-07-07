@@ -27,7 +27,7 @@ Once you have a socket object, you can use various methods to establish connecti
 - `socket.recv(buffer_size)`: Receives data from the socket.
 
 Here's an example of a basic TCP server that listens for incoming connections:
-```
+```python
 import socket
 
 
@@ -59,3 +59,17 @@ while True:
 ```
 
 Socket programming in Python allows you to create client-server applications, networked applications, and perform various networking tasks. It provides a powerful and flexible way to communicate over networks using different protocols. The `socket` module in Python provides a wide range of functions and methods to handle network communication efficiently.
+
+Here is how it was used in the video, you can spawn a reverse shell with this:
+```python
+#SOCKETS - Sockets can be used to connect two nodes together.  
+
+#!/bin/python3
+import socket
+
+HOST = '127.0.0.1'
+PORT = 7777
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #af_inet is ipv4, sock stream is a port
+s.connect((HOST,PORT))
+```
