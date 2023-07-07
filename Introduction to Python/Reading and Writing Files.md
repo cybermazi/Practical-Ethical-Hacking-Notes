@@ -71,9 +71,10 @@ file.close()
 ```
 
 It is generally recommended to use the `with` statement when working with files. This ensures that the file is properly closed even if an exception occurs.
-
+```python
 with open("example.txt", "r") as file:
     content = file.read()
     print(content)
+```
 
 Reading and writing files in Python allows you to handle external data, process large amounts of information, and store program outputs for later use. It is important to properly manage file resources and close them after use to avoid memory leaks and ensure data integrity.
