@@ -2,13 +2,13 @@ In Python, looping allows you to repeat a block of code multiple times. It is a 
 
 1. for Loop:
 2. The `for` loop is used to iterate over a sequence (such as a list, tuple, string, or range) or any iterable object. It executes a block of code a fixed number of times, based on the elements or items in the sequence. Here's the general syntax:
-```
+```python
 for item in sequence:
     # code to be executed for each item in the sequence
 ```
 
 Example:
-```
+```python
 fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
     print(fruit)
