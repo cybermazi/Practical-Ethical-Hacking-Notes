@@ -42,4 +42,11 @@ dog2.display_info()       # Output: "Name: Max", "Age: 3"
 In this example, `dog1` and `dog2` are objects created from the `Dog` class. Each object has its own set of attributes (`name` and `age`) and can invoke the methods (`bark()` and `display_info()`) defined in the class.
 
 Classes and objects are essential in object-oriented programming as they provide a way to organize code, encapsulate data, and define reusable entities. They enable you to model real-world entities, create custom data types, and build complex systems by leveraging the principles of inheritance, polymorphism, and encapsulation.
+
 *How it was used:*
+> We first of all need to create a class python with the following code:
+```python
+class Employees: def __init__(self, name, department, role, salary, years_employed): self.name = name self.department = department self.role = role self.salary = salary self.years_employed = years_employed def eligible_for_retirement(self): if self.years_employed >= 20: return True else: return False
+```
+
+> Then we can successfully crate another python
