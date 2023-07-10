@@ -6,8 +6,10 @@
 - [phonebook.cz](https://phonebook.cz) `domain`
 - [Clearbit](https://chrome.google.com/webstore/detail/clearbit-connect-free-ver/pmnhcgfcafcnkbengdcanjablaabjplo) `extension`
 - [EmailHippo](https://tools.emailhippo.com)  You can always verify if an email address is real from this `domain`
-- Do not underestimate the power of **"forgotten passwords"** 
+- Do not underestimate the power of **"forgotten passwords"** especially in Gmails 
+
 	Right here we have a google account called ola*******@gmail.com
 	[image]
 
-	
+	Clicking **"forgotten password"**, refers us to another valid gmail
+	[image]
