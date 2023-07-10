@@ -9,7 +9,9 @@
 - Do not underestimate the power of **"forgotten passwords"** especially in Gmails 
 
 	Right here we have a google account called ola*******@gmail.com
-	[image]
+	![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/fd97bf33-a73e-4afa-853c-c6e4f09702b0)
+
 
 	Clicking **"forgotten password"**, refers us to another valid gmail
-	[image]
+	![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/e3f410d1-ac0b-4c3c-967e-cbf71a444221)
+
