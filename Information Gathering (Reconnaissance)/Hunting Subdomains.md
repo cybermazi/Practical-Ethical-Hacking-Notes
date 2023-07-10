@@ -3,7 +3,9 @@ Understanding what subdomains are is essential in performing web application pen
 *Tools used:*
 - Sublist3r `CLI tool`
 	- You can always install it with `apt-get install sublist3r` in Kali Linux
-		[image]
-- [Crt.sh](https://crt.sh) `domain` - crt.sh is a certificate search tool that allows users to search for certificates by domain name, organization name, fingerprint, or crt.sh ID.
+		![[Pasted image 20230710181837.png]]
+
+-  [Crt.sh](https://crt.sh) `domain` - crt.sh is a certificate search tool that allows users to search for     certificates by domain name, organization name, fingerprint, or crt.sh ID.
 	- Navigate to the site and make sure to denote `%` for subdomains e.g:
-		[image]
+		![[Pasted image 20230710181812.png]]
+		
