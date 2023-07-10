@@ -4,4 +4,6 @@ DeHashed is a service that allows you to monitor hacker activity, prevent accoun
 1. Navigate to https://dehashed.com, Create an account and make sure you are logged in.
 ![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/39f862d2-16e4-4619-904f-9fbe687b9b0b)
 
-2. You can then search for breached credentials, note that you need to pay
+2. You can then search for breached credentials, note that you need to pay😆
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/4630c1d4-7bdf-4876-a956-bba5b0b05ce0)
+
