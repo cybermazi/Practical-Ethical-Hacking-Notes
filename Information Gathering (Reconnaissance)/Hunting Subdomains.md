@@ -8,3 +8,5 @@ Understanding what subdomains are is essential in performing web application pen
 - [Crt.sh](https://crt.sh) `domain` - crt.sh is a certificate search tool that allows users to search for certificates by domain name, organization name, fingerprint, or crt.sh ID.
 	- Navigate to the site and make sure to denote `%` for subdomains e.g:
 	-  Here are list of possible subdomains after our search result
+
+- Amass `domain`  - Amass is a very powerful tool, That focuses more on attacking subdomains, if you are not sure on what to do visit 
