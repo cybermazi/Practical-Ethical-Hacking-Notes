@@ -9,4 +9,4 @@ Understanding what subdomains are is essential in performing web application pen
 	- Navigate to the site and make sure to denote `%` for subdomains e.g:
 	-  Here are list of possible subdomains after our search result
 
-- Amass `domain`  - Amass is a very powerful tool, That focuses more on attacking subdomains, if you are not sure on what to do visit 
+- Amass `domain`  - Amass is a very powerful tool, That focuses more on attacking subdomains, if you are not sure on what to do visit https://github.com/owasp-amass/amass for full installation guide, but a simple `amass enum -passive -d tesla.com` should scan all subdomains on tesla.com
