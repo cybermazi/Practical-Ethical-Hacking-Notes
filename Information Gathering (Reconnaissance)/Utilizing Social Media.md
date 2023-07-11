@@ -9,3 +9,4 @@ We can always utilize social media to our own advantage, whereby looking fior pi
 
 - Followed by **LinkedIn**
   
+![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/2af8f47b-867f-414e-a9cd-6184d9589e2a)
