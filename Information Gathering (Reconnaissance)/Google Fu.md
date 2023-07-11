@@ -4,4 +4,6 @@ You can always find dorks from [exploit-db](https://www.exploit-db.com/google-ha
 - `site`
 - `onsite`
 - `filetype`
-- 
+- `inurl`
+- `intext`
+- `intitle`
