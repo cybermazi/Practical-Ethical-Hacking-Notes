@@ -59,5 +59,4 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 [+] Navigating to the website gives us this:
 ![default apache page](https://i.imgur.com/vI07kkU.png)
 
-
-
+[+] We don't still have enough information, just a default page of the website, Well Mr. Heath introduced us to a tool called **`nikito`**, it comes preinstalled with kali, 
