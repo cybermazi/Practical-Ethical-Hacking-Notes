@@ -116,5 +116,8 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 
 ![how to launch dirbuster](https://i.imgur.com/2fg5Edr.png)
 
-- **Step 1:** Launch Dirbuster by typing **`dirbuster`**
+- **Step 1:** Launch Dirbuster by typing **`dirbuster`** in your linux terminal
+- **Step 2:** Type in your target website and make sure it is ending with a '/'
+- **Step 3:** Well threads definitely mean how 
+- **Step 4:**
 
