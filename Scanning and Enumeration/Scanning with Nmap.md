@@ -3,6 +3,7 @@
 Nmap is an open-source network exploring tool. It rapidly scans large networks and gives back various information. The port table is arguably the most useful feature of Nmap as it gives back a tally of available ports and their statuses, whether they are open, closed, or protected (filtered). Along with the port table, Nmap provides DNS information, operating system guesses and MAC addresses, etc.  
 First let’s dig in on the major functionality of Nmap, Port scanning.Following are the available port statuses in Nmap.
 
+Always remember to use this syntax in the exams:
 - **Open**: This means that an application on the target end is actively accepting TCP connections, UDP datagrams, or SCTP associations on this port. Open ports are as a hacker as an open vault to a thief.
 - **Closed**: Closed ports respond to data requests. However, no application is listening to them. Nmap uses such ports are used by Nmap to determine the OS or scan the provided IP address for live hosting.
 - **Filtered**: Nmap cannot determine whether such ports are open or not as they are protected by dedicated firewalls, router rules, etc. Sometimes these ports respond with ICMP error messages to confuse the exploiter.
