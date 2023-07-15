@@ -53,3 +53,8 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 ```
+
+> we can see here that `http` is running on port 80 and https on port 443 is opened, also we can see what server in which the website uses.
+
+[+] Navigating to the website gives us this:
+
