@@ -114,4 +114,7 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 
 [+] Now let enumerate further, running dirbuster in our command line gives us a GUI interface
 
+![how to launch dirbuster](https://i.imgur.com/2fg5Edr.png)
+
+- **Step 1:** Launch Dirbuster by typing **`dirbuster`**
 
