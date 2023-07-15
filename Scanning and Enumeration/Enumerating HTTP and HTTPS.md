@@ -118,6 +118,7 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 
 - **Step 1:** Launch Dirbuster by typing **`dirbuster`** in your linux terminal
 - **Step 2:** Type in your target website and make sure it is ending with a '/'
-- **Step 3:** Well threads definitely mean how 
-- **Step 4:**
+- **Step 3:** Well threads definitely mean how fast you want your scans to be [The higher the number, the faster the scan] or you can let dirbuster do that for you with the **`Go Faster`** option
+- **Step 4:** You can list your own wordlist or let dirbuster choose it own default wordlist
+- 
 
