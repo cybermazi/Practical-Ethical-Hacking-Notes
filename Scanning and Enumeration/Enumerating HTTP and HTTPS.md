@@ -109,3 +109,6 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 
 # Advance Enumeration
 
+### Directory Bruteforce
+
+**Directory brute force is a technique used to find hidden and forgotten directories on a website. Attackers often target directories that are likely to contain outdated or insecure software. There are various automated tools and scripts available for directory brute force attacks. One popular tool is DirBruter, a Python-based GUI tool. Additionally, there are public repositories on GitHub that provide wordlists for brute force attacks like [Seclist**
